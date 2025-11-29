@@ -6,9 +6,6 @@
 [![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)](https://huggingface.co/docs/transformers/index)
 [![PEFT](https://img.shields.io/badge/PEFT-LoRA-green)](https://github.com/huggingface/peft)
 
-**Authors:** [Khac-Lap Phan](mailto:lap4654100006@st.qnu.edu.vn)¹ and [Quang-Hung Le](mailto:lequanghung@qnu.edu.vn)²* **Affiliation:** Department of Information Technology, Quy Nhon University, Vietnam  
-¹`lap4654100006@st.qnu.edu.vn`, ²`lequanghung@qnu.edu.vn` (Corresponding author)
-
 ---
 
 ## Abstract
